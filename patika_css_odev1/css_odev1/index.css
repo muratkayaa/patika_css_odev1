@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #A5C9CA;
+}
+
+.baslik{
+    background-color:#2C3333;
+    height: 50px;
+}
+.logo{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Caveat', cursive;
+}
+.navigator{
+    
+    background-color: #395B64;
+    font-size: 20px; 
+    height: 70px; 
+}
+ul{
+    float: right;
+    margin-left: 70px;
+    padding-top: 20px;
+}
+li{    
+    
+    display: inline;
+    
+}
+a{      
+    margin: 30px;
+    color: #E7F6F2;   
+    text-decoration: none;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    
+}
+.cafe{
+    margin: 30px;
+   
+}
+.urun-img img{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 470px;
+    width: 40%;
+    height: 40%;
+    
+}
+.urun-text p{
+    font-size: 25px;
+    text-align:center;
+    color: #2c2727;
+    font-family: 'Caveat', cursive;
+
+}
+.about-img img{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 470px;
+    width: 40%;
+    height: 40%;
+    
+}
+.about-text p{
+    font-size: 25px;
+    text-align:center;
+    color: #2c2727;
+    font-family: 'Caveat', cursive;
+}
+
+h2{
+   margin-top: 10px;
+    margin-left: 700px;
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+}
+   
